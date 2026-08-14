@@ -85,7 +85,6 @@ Before contributing, read the contributing and security guidance in the relevant
 
 <div align="center">
 
-**Clyvora Technologies**  
-Made with care for a more private web.
+**Clyvora Technologies**
 
 </div>
