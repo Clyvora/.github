@@ -85,6 +85,4 @@ Before contributing, read the contributing and security guidance in the relevant
 
 <div align="center">
 
-**Clyvora Technologies**
-
 </div>
