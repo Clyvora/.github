@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://raw.githubusercontent.com/ClyvoraTech/Main/main/public/favicon.png" alt="Clyvora Technologies logo" width="104">
+<img src="https://raw.githubusercontent.com/Clyvora/Main/main/public/favicon.png" alt="Clyvora Technologies logo" width="104">
 
 # Clyvora Technologies
 
@@ -22,7 +22,7 @@ Clyvora Technologies creates practical web tools without turning personal files 
 
 <h3 align="center">Clyvora Lens</h3>
 
-<a href="https://www.lens.clyvora.tech/"><img src="https://raw.githubusercontent.com/ClyvoraTech/Main/main/public/lens-preview.png" alt="Clyvora Lens preview" width="100%"></a>
+<a href="https://www.lens.clyvora.tech/"><img src="https://raw.githubusercontent.com/Clyvora/Main/main/public/lens-preview.png" alt="Clyvora Lens preview" width="100%"></a>
 
 <p>A local-first workbench for structured data. Open JSON or CSV, inspect its contents, search and filter records, and convert between formats without sending the source file away.</p>
 
@@ -34,7 +34,7 @@ Clyvora Technologies creates practical web tools without turning personal files 
 <li>Process large files using browser workers.</li>
 </ul>
 
-<p><a href="https://www.lens.clyvora.tech/"><strong>Use Lens</strong></a> &middot; <a href="https://github.com/ClyvoraTech/Lens">View source</a></p>
+<p><a href="https://www.lens.clyvora.tech/"><strong>Use Lens</strong></a> &middot; <a href="https://github.com/Clyvora/Lens">View source</a></p>
 
 <sub>Currently in beta. Keep a copy of important source files and verify critical output.</sub>
 
@@ -43,7 +43,7 @@ Clyvora Technologies creates practical web tools without turning personal files 
 
 <h3 align="center">Clyvora Convert</h3>
 
-<a href="https://www.convert.clyvora.tech/"><img src="https://raw.githubusercontent.com/ClyvoraTech/Main/main/public/convert-preview.png" alt="Clyvora Convert preview" width="100%"></a>
+<a href="https://www.convert.clyvora.tech/"><img src="https://raw.githubusercontent.com/Clyvora/Main/main/public/convert-preview.png" alt="Clyvora Convert preview" width="100%"></a>
 
 <p>A private media converter for images, audio, and video. Files are converted locally with native browser capabilities and a self-hosted WebAssembly media engine.</p>
 
@@ -56,7 +56,7 @@ Clyvora Technologies creates practical web tools without turning personal files 
 <li>Use cached conversion features offline.</li>
 </ul>
 
-<p><a href="https://www.convert.clyvora.tech/"><strong>Use Convert</strong></a> &middot; <a href="https://github.com/ClyvoraTech/Convert">View source</a></p>
+<p><a href="https://www.convert.clyvora.tech/"><strong>Use Convert</strong></a> &middot; <a href="https://github.com/Clyvora/Convert">View source</a></p>
 
 </td>
 </tr>
